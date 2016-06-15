@@ -32,6 +32,7 @@
     "pil": "https://pypi.python.org/pypi/Pillow",
     "py-bcrypt": "https://code.google.com/p/py-bcrypt/",
     "pycountry": "https://pypi.python.org/pypi/pycountry",
+    "pyldap": "https://github.com/pyldap/pyldap/blob/master/setup.py#L120",
     "pyodbc": "http://mkleehammer.github.io/pyodbc/releases.html",
     "pypdf": "https://pypi.python.org/pypi/PyPDF2",
     "pyrss2gen": "https://pypi.python.org/pypi/PyRSS2Gen",
